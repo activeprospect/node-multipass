@@ -1,12 +1,7 @@
 {
-  "name": "multipass",
+  "name": "@activeprospect/multi-pass",
   "description": "Encode and decode Tender Multipass tokens",
-  "version": "1.0.2",
-  "author": "David Wood <bitprobe@gmail.com>",
-  "repository": {
-      "type": "git",
-      "url": "http://github.com/davidwood/node-multipass" 
-  },
+  "version": "1.0.0",
   "devDependencies": {
     "mocha": "*"
   },
